@@ -1,0 +1,4 @@
+/build/**
+/src/main/java/io/traceguide/thrift/**
+/src/main/java/io/traceguide/instrument/**
+!/src/main/java/io/traceguide/instrument/android
